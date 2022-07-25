@@ -1,0 +1,6 @@
+# Project exclude paths
+/cmake-build-debug/
+/Run091.root
+/Run088Old.root
+/Run091Old.root
+/.idea/Run1599.root
